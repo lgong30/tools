@@ -1,0 +1,3 @@
+[submodule "SERENA-DEMO-TOOL"]
+	path = SERENA-DEMO-TOOL
+	url = git@github-lgong:lgong30/SERENA-DEMO-TOOL.git
